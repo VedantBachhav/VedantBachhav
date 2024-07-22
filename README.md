@@ -3,8 +3,6 @@
 <img align='right' alt="coding gif" width= '400' src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantbachhav&label=Profile%20views&color=0e75b6&style=flat" alt="vedantbachhav" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedantbachhav" alt="vedantbachhav" /></a> </p>
-
 - 🔭 I’m currently working on **An Adaptive Neuro Fuzzy Inference System for Student Academic Performance**
 
 - 🌱 I’m currently learning **Java, Sprig-Boot**
@@ -14,6 +12,8 @@
 - 💬 Ask me about **Python, Java, Frontend Development**
 
 - 📫 How to reach me **vedantbachhav108@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1bMLgxrJfq_lb-QkRTZr0UglVd0dlEOgD/view?usp=sharing](https://drive.google.com/file/d/1bMLgxrJfq_lb-QkRTZr0UglVd0dlEOgD/view?usp=sharing)
 
 - ⚡ Fun fact **Commit to git not girls.**
 
@@ -33,3 +33,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantbachhav&show_icons=true&locale=en&layout=compact" alt="vedantbachhav" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedantbachhav&show_icons=true&locale=en" alt="vedantbachhav" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantbachhav&" alt="vedantbachhav" /></p>
