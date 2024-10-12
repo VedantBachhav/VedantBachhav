@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **An Adaptive Neuro Fuzzy Inference System for Student Academic Performance**
 
-- 🌱 I’m currently learning **Java, Sprig-Boot**
+- 🌱 I’m currently learning **Java, DSA and React.js**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
